@@ -1,5 +1,6 @@
 # Car-speed-checker-using-IR-sensor-and-Arduino-UNO
 This project involves the development of a speed detection system using Arduino and IR sensors to monitor and alert traffic authorities about speeding violations on highways. The system calculates vehicle speed and triggers real-time alerts when a car exceeds the speed limit.
+
 #include <LiquidCrystal.h>
 
 // Initialize the LCD (RS, E, D4, D5, D6, D7)
